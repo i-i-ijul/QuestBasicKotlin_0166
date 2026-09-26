@@ -3,5 +3,5 @@ fun printMessage(message: String) {
 }
 
 fun main() {
-    printMessage("Hello")
+    printMessage("Hello Ijul Ganteng")
 }
