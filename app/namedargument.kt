@@ -3,5 +3,5 @@ fun printMessageWithPrefix(message: String, prefix: String = "Info") {
 }
 
 fun main() {
-    printMessageWithPrefix(prefix = "Log", message = "Hello")
+    printMessageWithPrefix(prefix = "Log", message = "Hello Ijul Ganteng")
 }
