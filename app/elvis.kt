@@ -1,4 +1,4 @@
 fun main() {
-    var nullString: String? = "null"
+    var nullString: String? = "ijul"
     println(nullString?.length ?: 0)
 }
