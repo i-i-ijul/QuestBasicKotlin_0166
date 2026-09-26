@@ -1,3 +1,3 @@
 fun main() {
-    println({ string: String -> string.uppercase() }("hello"))
+    println({ string: String -> string.uppercase() }("ijul ganteng banget"))
 }
